@@ -1,4 +1,5 @@
 import * as http from "http";
+import crypto from "crypto";
 import {
   BASE_ONION_ROUTER_PORT,
   BASE_USER_PORT,
